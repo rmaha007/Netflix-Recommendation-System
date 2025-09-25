@@ -70,6 +70,7 @@ For the input title **"Kota Factory"**, the system outputs:
 
 ---
 
-## Author
-**Quhura Fathima**  
-[LinkedIn](https://www.linkedin.com/in/quhurafathima/) | [GitHub](https://github.com/qfath001)
+##  Author
+**Reema Mahabooba**  
+- [LinkedIn](https://www.linkedin.com/in/reema-mahabooba/)  
+- [GitHub](https://github.com/rmaha007)
